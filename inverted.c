@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main() {
+Void main() {
    int i, j, rows;
    printf("Enter the number of rows: ");
    scanf("%d", &rows);
@@ -7,3 +7,6 @@ int main() {
       for (j = 1; j <= i; ++j) {
          printf("* ");
       }
+}
+}
+

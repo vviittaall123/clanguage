@@ -1,4 +1,5 @@
-
+#include<stdio.h>
+int main()
  {
    int i, j, rows;
    printf("Enter the number of rows: ");
@@ -8,5 +9,7 @@
          printf("%d ", j);
       }
       printf("\n");
+} return 0;
+}
 
 
